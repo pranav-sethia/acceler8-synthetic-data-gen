@@ -1,0 +1,743 @@
+[
+    {
+        "id": "31759118-7abe-43a1-98db-b17aebbb2710",
+        "status": "PUBLISHED",
+        "capabilities": "Skilled Navigator",
+        "capabilities_label": "Skilled Navigator",
+        "sub_capability": "Calm and Composed",
+        "visibility": [
+            "EMPLOYEE"
+        ],
+        "type": "OBJECTIVE_SINGLE",
+        "manager_question_type": null,
+        "question": "<p>To what extent are you expected to help maintain composure and stability during high-pressure situations in your team?</p>",
+        "manager_question": null,
+        "options": [
+            {
+                "value": "Core to my role ",
+                "input_required": false
+            },
+            {
+                "value": "Important, but not core ",
+                "input_required": false
+            },
+            {
+                "value": "Occasionally relevant ",
+                "input_required": false
+            },
+            {
+                "value": "Not in my scope",
+                "input_required": false
+            }
+        ],
+        "manager_options": null,
+        "description": "Clear, concise and engaging communicator that has the ability to convince and influence internal and external stakeholders Ability to navigate complex situations, in a composed manner and achieve optimal result",
+        "ranking": [
+            4,
+            3,
+            2,
+            1
+        ],
+        "manager_ranking": null,
+        "sl_no": 9,
+        "capability_sl_no": 0,
+        "sub_capability_sl_no": 3,
+        "exact_number_selection": null,
+        "manager_exact_number_selection": null,
+        "assessment": null,
+        "question_hash": null,
+        "created_by": "elizabeth@tccapita.com",
+        "created_at": 1756801061845,
+        "updated_by": "elizabeth@tccapita.com",
+        "updated_at": 1756801061847,
+        "employee_skip_score": false,
+        "manager_skip_score": false
+    },
+    {
+        "id": "19b90964-9e28-4f18-85af-4deef2d64b8d",
+        "status": "PUBLISHED",
+        "capabilities": "Skilled Navigator",
+        "capabilities_label": "Skilled Navigator",
+        "sub_capability": "Calm and Composed",
+        "visibility": [
+            "EMPLOYEE"
+        ],
+        "type": "OBJECTIVE_SINGLE",
+        "manager_question_type": null,
+        "question": "<p>How often do others look to you as a calming presence during team stress or conflict?</p>",
+        "manager_question": null,
+        "options": [
+            {
+                "value": "Regularly  ",
+                "input_required": false
+            },
+            {
+                "value": "Occasionally",
+                "input_required": false
+            },
+            {
+                "value": "Seldom",
+                "input_required": false
+            },
+            {
+                "value": "Not that I’m aware of",
+                "input_required": false
+            }
+        ],
+        "manager_options": null,
+        "description": "Clear, concise and engaging communicator that has the ability to convince and influence internal and external stakeholders Ability to navigate complex situations, in a composed manner and achieve optimal result",
+        "ranking": [
+            4,
+            3,
+            2,
+            1
+        ],
+        "manager_ranking": null,
+        "sl_no": 10,
+        "capability_sl_no": 0,
+        "sub_capability_sl_no": 3,
+        "exact_number_selection": null,
+        "manager_exact_number_selection": null,
+        "assessment": null,
+        "question_hash": null,
+        "created_by": "elizabeth@tccapita.com",
+        "created_at": 1756801061845,
+        "updated_by": "elizabeth@tccapita.com",
+        "updated_at": 1756801061847,
+        "employee_skip_score": false,
+        "manager_skip_score": false
+    },
+    {
+        "id": "6930746b-e883-49b3-8fe1-f85520cf59b3",
+        "status": "PUBLISHED",
+        "capabilities": "Skilled Navigator",
+        "capabilities_label": "Skilled Navigator",
+        "sub_capability": "Calm and Composed",
+        "visibility": [
+            "EMPLOYEE"
+        ],
+        "type": "OBJECTIVE_SINGLE",
+        "manager_question_type": null,
+        "question": "<p>You're presenting a new process change, and a team member strongly disagrees, citing concerns about added workload. How do you typically respond?</p>",
+        "manager_question": null,
+        "options": [
+            {
+                "value": "I acknowledge their concern and ask questions to better understand their perspective .",
+                "input_required": false
+            },
+            {
+                "value": "I explain the rationale behind the change and reassure them of support.",
+                "input_required": false
+            },
+            {
+                "value": "I encourage a group discussion to surface other concerns and co-create solutions.",
+                "input_required": false
+            },
+            {
+                "value": " I move forward with the change and suggest they try it before forming a judgment.",
+                "input_required": false
+            }
+        ],
+        "manager_options": null,
+        "description": "Clear, concise and engaging communicator that has the ability to convince and influence internal and external stakeholders Ability to navigate complex situations, in a composed manner and achieve optimal result",
+        "ranking": [
+            4,
+            2,
+            3,
+            1
+        ],
+        "manager_ranking": null,
+        "sl_no": 11,
+        "capability_sl_no": 0,
+        "sub_capability_sl_no": 3,
+        "exact_number_selection": null,
+        "manager_exact_number_selection": null,
+        "assessment": null,
+        "question_hash": null,
+        "created_by": "elizabeth@tccapita.com",
+        "created_at": 1756801061845,
+        "updated_by": "elizabeth@tccapita.com",
+        "updated_at": 1756801061847,
+        "employee_skip_score": false,
+        "manager_skip_score": false
+    },
+    {
+        "id": "85cff35e-4a2a-4b14-96a9-abd22ccefba7",
+        "status": "PUBLISHED",
+        "capabilities": "Skilled Navigator",
+        "capabilities_label": "Skilled Navigator",
+        "sub_capability": "Stakeholder Navigation",
+        "visibility": [
+            "EMPLOYEE"
+        ],
+        "type": "OBJECTIVE_RANKING",
+        "manager_question_type": null,
+        "question": "<p>Rank the most effective methods to assess a stakeholder's influence on the buying decision.</p>",
+        "manager_question": null,
+        "options": [
+            {
+                "value": "Their job title",
+                "input_required": false
+            },
+            {
+                "value": "Their tenure",
+                "input_required": false
+            },
+            {
+                "value": "How often they attend meetings about the purchase",
+                "input_required": false
+            },
+            {
+                "value": "Their level of engagement and internal relationship with decision making",
+                "input_required": false
+            }
+        ],
+        "manager_options": null,
+        "description": "Clear, concise and engaging communicator that has the ability to convince and influence internal and external stakeholders Ability to navigate complex situations, in a composed manner and achieve optimal result",
+        "ranking": [
+            4,
+            1,
+            2,
+            3
+        ],
+        "manager_ranking": null,
+        "sl_no": 1,
+        "capability_sl_no": 4,
+        "sub_capability_sl_no": 0,
+        "exact_number_selection": null,
+        "manager_exact_number_selection": null,
+        "assessment": null,
+        "question_hash": null,
+        "created_by": "elizabeth@tccapita.com",
+        "created_at": 1756801061845,
+        "updated_by": "elizabeth@tccapita.com",
+        "updated_at": 1756801061847,
+        "employee_skip_score": false,
+        "manager_skip_score": false
+    },
+    {
+        "id": "397d8131-d540-4974-9420-d978b3a2cd63",
+        "status": "PUBLISHED",
+        "capabilities": "Skilled Navigator",
+        "capabilities_label": "Skilled Navigator",
+        "sub_capability": "Stakeholder Navigation",
+        "visibility": [
+            "EMPLOYEE"
+        ],
+        "type": "OBJECTIVE_SINGLE",
+        "manager_question_type": null,
+        "question": "<p>How confident are you in identifying the different stakeholders (e.g., decision-makers, customer-facing teams, influencers, senior management, etc.) involved in the decision-making process?</p>",
+        "manager_question": null,
+        "options": [
+            {
+                "value": "Very Confident",
+                "input_required": false
+            },
+            {
+                "value": "Confident",
+                "input_required": false
+            },
+            {
+                "value": "Somewhat confident",
+                "input_required": false
+            },
+            {
+                "value": "Really depends",
+                "input_required": false
+            }
+        ],
+        "manager_options": null,
+        "description": "Clear, concise and engaging communicator that has the ability to convince and influence internal and external stakeholders Ability to navigate complex situations, in a composed manner and achieve optimal result",
+        "ranking": [
+            4,
+            3,
+            2,
+            1
+        ],
+        "manager_ranking": null,
+        "sl_no": 2,
+        "capability_sl_no": 4,
+        "sub_capability_sl_no": 0,
+        "exact_number_selection": null,
+        "manager_exact_number_selection": null,
+        "assessment": null,
+        "question_hash": null,
+        "created_by": "elizabeth@tccapita.com",
+        "created_at": 1756801061845,
+        "updated_by": "elizabeth@tccapita.com",
+        "updated_at": 1756801061847,
+        "employee_skip_score": false,
+        "manager_skip_score": false
+    },
+    {
+        "id": "950b7310-eba0-4e49-98bc-f5f9499e6b26",
+        "status": "PUBLISHED",
+        "capabilities": "Skilled Navigator",
+        "capabilities_label": "Skilled Navigator",
+        "sub_capability": "Stakeholder Navigation",
+        "visibility": [
+            "EMPLOYEE"
+        ],
+        "type": "OBJECTIVE_SINGLE",
+        "manager_question_type": null,
+        "question": "<p>In your view, what’s the most effective way to engage two key stakeholders who have different priorities?</p>",
+        "manager_question": null,
+        "options": [
+            {
+                "value": "Focus on identifying the decision-maker and direct efforts toward them.",
+                "input_required": false
+            },
+            {
+                "value": "Focus primarily on ROI and product benefits.",
+                "input_required": false
+            },
+            {
+                "value": "Wait until they are aligned internally before engaging them.",
+                "input_required": false
+            },
+            {
+                "value": "Understand their different motivations and tailor the message accordingly.",
+                "input_required": false
+            }
+        ],
+        "manager_options": null,
+        "description": "Clear, concise and engaging communicator that has the ability to convince and influence internal and external stakeholders Ability to navigate complex situations, in a composed manner and achieve optimal result",
+        "ranking": [
+            1,
+            2,
+            0,
+            4
+        ],
+        "manager_ranking": null,
+        "sl_no": 3,
+        "capability_sl_no": 4,
+        "sub_capability_sl_no": 0,
+        "exact_number_selection": null,
+        "manager_exact_number_selection": null,
+        "assessment": null,
+        "question_hash": null,
+        "created_by": "elizabeth@tccapita.com",
+        "created_at": 1756801061845,
+        "updated_by": "elizabeth@tccapita.com",
+        "updated_at": 1756801061847,
+        "employee_skip_score": false,
+        "manager_skip_score": false
+    },
+    {
+        "id": "7916fb59-09d5-404f-b2b5-3de3665ce9cc",
+        "status": "PUBLISHED",
+        "capabilities": "Skilled Navigator",
+        "capabilities_label": "Skilled Navigator",
+        "sub_capability": "Stakeholder Navigation",
+        "visibility": [
+            "EMPLOYEE"
+        ],
+        "type": "OBJECTIVE_SINGLE",
+        "manager_question_type": null,
+        "question": "<p>How actively do you map and identify key influencers in the decision-making process?</p>",
+        "manager_question": null,
+        "options": [
+            {
+                "value": "Always",
+                "input_required": false
+            },
+            {
+                "value": "Frequently",
+                "input_required": false
+            },
+            {
+                "value": "From Time to Time",
+                "input_required": false
+            },
+            {
+                "value": "Rarely",
+                "input_required": false
+            }
+        ],
+        "manager_options": null,
+        "description": "Clear, concise and engaging communicator that has the ability to convince and influence internal and external stakeholders Ability to navigate complex situations, in a composed manner and achieve optimal result",
+        "ranking": [
+            4,
+            3,
+            2,
+            1
+        ],
+        "manager_ranking": null,
+        "sl_no": 4,
+        "capability_sl_no": 4,
+        "sub_capability_sl_no": 0,
+        "exact_number_selection": null,
+        "manager_exact_number_selection": null,
+        "assessment": null,
+        "question_hash": null,
+        "created_by": "elizabeth@tccapita.com",
+        "created_at": 1756801061845,
+        "updated_by": "elizabeth@tccapita.com",
+        "updated_at": 1756801061847,
+        "employee_skip_score": false,
+        "manager_skip_score": false
+    },
+    {
+        "id": "b3cdb213-fb57-4888-977b-fe5530502374",
+        "status": "PUBLISHED",
+        "capabilities": "Skilled Navigator",
+        "capabilities_label": "Skilled Navigator",
+        "sub_capability": "Empathetic Objection Handling",
+        "visibility": [
+            "EMPLOYEE"
+        ],
+        "type": "OBJECTIVE_SINGLE",
+        "manager_question_type": null,
+        "question": "<p>How often do you ask clarifying questions to fully understand the root of someone’s concern or objection?</p>",
+        "manager_question": null,
+        "options": [
+            {
+                "value": "Always",
+                "input_required": false
+            },
+            {
+                "value": "Frequently",
+                "input_required": false
+            },
+            {
+                "value": "From Time-to-Time",
+                "input_required": false
+            },
+            {
+                "value": "Rarely",
+                "input_required": false
+            }
+        ],
+        "manager_options": null,
+        "description": "Clear, concise and engaging communicator that has the ability to convince and influence internal and external stakeholders Ability to navigate complex situations, in a composed manner and achieve optimal result",
+        "ranking": [
+            4,
+            3,
+            2,
+            1
+        ],
+        "manager_ranking": null,
+        "sl_no": 5,
+        "capability_sl_no": 4,
+        "sub_capability_sl_no": 1,
+        "exact_number_selection": null,
+        "manager_exact_number_selection": null,
+        "assessment": null,
+        "question_hash": null,
+        "created_by": "elizabeth@tccapita.com",
+        "created_at": 1756801061845,
+        "updated_by": "anurag@tccapita.com",
+        "updated_at": 1757316954281,
+        "employee_skip_score": false,
+        "manager_skip_score": false
+    },
+    {
+        "id": "aaaae9e0-233a-47da-a622-debd992d6a80",
+        "status": "PUBLISHED",
+        "capabilities": "Skilled Navigator",
+        "capabilities_label": "Skilled Navigator",
+        "sub_capability": "Tactful Negotiator",
+        "visibility": [
+            "EMPLOYEE"
+        ],
+        "type": "OBJECTIVE_SINGLE",
+        "manager_question_type": null,
+        "question": "What best describes your influencing and negotiation style? ",
+        "manager_question": null,
+        "options": [
+            {
+                "value": "Recognized as an expert collaborative negotiator.",
+                "input_required": false
+            },
+            {
+                "value": "Demonstrates successful collaborative negotiation, achieving a \"win-win\" scenario for both parties.",
+                "input_required": false
+            },
+            {
+                "value": "Demonstrates an understanding of basic negotiation skills, such as building trust, gaining commitment, and maintaining goodwill.",
+                "input_required": false
+            },
+            {
+                "value": "Engages in a fair and balanced way to gain support and agreement, showing the right aptitude for becoming a strong negotiator.",
+                "input_required": false
+            }
+        ],
+        "manager_options": null,
+        "description": "Clear, concise and engaging communicator that has the ability to convince and influence internal and external stakeholders Ability to navigate complex situations, in a composed manner and achieve optimal result",
+        "ranking": [
+            4,
+            3,
+            2,
+            1
+        ],
+        "manager_ranking": null,
+        "sl_no": 6,
+        "capability_sl_no": 4,
+        "sub_capability_sl_no": 2,
+        "exact_number_selection": null,
+        "manager_exact_number_selection": null,
+        "assessment": null,
+        "question_hash": null,
+        "created_by": "elizabeth@tccapita.com",
+        "created_at": 1756801061845,
+        "updated_by": "elizabeth@tccapita.com",
+        "updated_at": 1756801061847,
+        "employee_skip_score": false,
+        "manager_skip_score": false
+    },
+    {
+        "id": "4b1ad456-1501-4f71-9470-1fd7c54ab0a8",
+        "status": "PUBLISHED",
+        "capabilities": "Skilled Navigator",
+        "capabilities_label": "Skilled Navigator",
+        "sub_capability": "Tactful Negotiator",
+        "visibility": [
+            "EMPLOYEE"
+        ],
+        "type": "OBJECTIVE_SINGLE",
+        "manager_question_type": null,
+        "question": "Do you have the right tools and training required for handling objections? ",
+        "manager_question": null,
+        "options": [
+            {
+                "value": "Strongly Agree",
+                "input_required": false
+            },
+            {
+                "value": "Agree",
+                "input_required": false
+            },
+            {
+                "value": "Disagree",
+                "input_required": false
+            },
+            {
+                "value": "Strongly Disagree",
+                "input_required": false
+            }
+        ],
+        "manager_options": null,
+        "description": "Clear, concise and engaging communicator that has the ability to convince and influence internal and external stakeholders Ability to navigate complex situations, in a composed manner and achieve optimal result",
+        "ranking": [
+            4,
+            3,
+            2,
+            1
+        ],
+        "manager_ranking": null,
+        "sl_no": 7,
+        "capability_sl_no": 4,
+        "sub_capability_sl_no": 2,
+        "exact_number_selection": null,
+        "manager_exact_number_selection": null,
+        "assessment": null,
+        "question_hash": null,
+        "created_by": "elizabeth@tccapita.com",
+        "created_at": 1756801061845,
+        "updated_by": "elizabeth@tccapita.com",
+        "updated_at": 1756801061847,
+        "employee_skip_score": false,
+        "manager_skip_score": false
+    },
+    {
+        "id": "167f9a8b-3981-4ada-8289-d8fb39a61088",
+        "status": "PUBLISHED",
+        "capabilities": "Skilled Navigator",
+        "capabilities_label": "Skilled Navigator",
+        "sub_capability": "Tactful Negotiator",
+        "visibility": [
+            "EMPLOYEE",
+            "MANAGER"
+        ],
+        "type": "SUBJECTIVE",
+        "manager_question_type": "SUBJECTIVE",
+        "question": "<p>How can &lt;organization&gt; best support or enable you in becoming a stronger negotiator?</p>",
+        "manager_question": "How can the organization best support <Employee> in becoming a stronger negotiator?",
+        "options": null,
+        "manager_options": [],
+        "description": "Clear, concise and engaging communicator that has the ability to convince and influence internal and external stakeholders Ability to navigate complex situations, in a composed manner and achieve optimal result",
+        "ranking": null,
+        "manager_ranking": null,
+        "sl_no": 8,
+        "capability_sl_no": 4,
+        "sub_capability_sl_no": 2,
+        "exact_number_selection": null,
+        "manager_exact_number_selection": null,
+        "assessment": null,
+        "question_hash": null,
+        "created_by": "elizabeth@tccapita.com",
+        "created_at": 1756801061845,
+        "updated_by": "elizabeth@tccapita.com",
+        "updated_at": 1756801061845,
+        "employee_skip_score": false,
+        "manager_skip_score": false
+    },
+    {
+        "id": "30de3752-2d1a-479b-9d34-22369064369c",
+        "status": "PUBLISHED",
+        "capabilities": "Skilled Navigator",
+        "capabilities_label": "Skilled Navigator",
+        "sub_capability": "Calm and Composed",
+        "visibility": [
+            "EMPLOYEE"
+        ],
+        "type": "OBJECTIVE_MULTIPLE",
+        "manager_question_type": null,
+        "question": "Which of the two words would you use to describe your demeanor when under pressure?",
+        "manager_question": null,
+        "options": [
+            {
+                "value": "Adaptive",
+                "input_required": false
+            },
+            {
+                "value": "Reactive",
+                "input_required": false
+            },
+            {
+                "value": "Calm",
+                "input_required": false
+            },
+            {
+                "value": "Decisive",
+                "input_required": false
+            },
+            {
+                "value": "Collaborative",
+                "input_required": false
+            },
+            {
+                "value": "Seeks Support",
+                "input_required": false
+            },
+            {
+                "value": "Detailed",
+                "input_required": false
+            },
+            {
+                "value": "Focused",
+                "input_required": false
+            }
+        ],
+        "manager_options": null,
+        "description": "Clear, concise and engaging communicator that has the ability to convince and influence internal and external stakeholders Ability to navigate complex situations, in a composed manner and achieve optimal result",
+        "ranking": null,
+        "manager_ranking": null,
+        "sl_no": 12,
+        "capability_sl_no": 4,
+        "sub_capability_sl_no": 3,
+        "exact_number_selection": 2,
+        "manager_exact_number_selection": null,
+        "assessment": null,
+        "question_hash": null,
+        "created_by": "elizabeth@tccapita.com",
+        "created_at": 1756801061845,
+        "updated_by": "elizabeth@tccapita.com",
+        "updated_at": 1756801061847,
+        "employee_skip_score": true,
+        "manager_skip_score": false
+    },
+    {
+        "id": "e92feab1-20f7-47e0-b55b-9d017962decb",
+        "status": "PUBLISHED",
+        "capabilities": "Skilled Navigator",
+        "capabilities_label": "Skilled Navigator",
+        "sub_capability": "Calm and Composed",
+        "visibility": [
+            "EMPLOYEE"
+        ],
+        "type": "OBJECTIVE_SINGLE",
+        "manager_question_type": null,
+        "question": "​How frequently do you encounter high-pressure situations in your role?",
+        "manager_question": null,
+        "options": [
+            {
+                "value": "Always",
+                "input_required": false
+            },
+            {
+                "value": "Frequently",
+                "input_required": false
+            },
+            {
+                "value": "From Time to Time",
+                "input_required": false
+            },
+            {
+                "value": "Rarely",
+                "input_required": false
+            }
+        ],
+        "manager_options": null,
+        "description": "Clear, concise and engaging communicator that has the ability to convince and influence internal and external stakeholders Ability to navigate complex situations, in a composed manner and achieve optimal result",
+        "ranking": [
+            4,
+            3,
+            2,
+            1
+        ],
+        "manager_ranking": null,
+        "sl_no": 13,
+        "capability_sl_no": 4,
+        "sub_capability_sl_no": 3,
+        "exact_number_selection": null,
+        "manager_exact_number_selection": null,
+        "assessment": null,
+        "question_hash": null,
+        "created_by": "elizabeth@tccapita.com",
+        "created_at": 1756801061845,
+        "updated_by": "elizabeth@tccapita.com",
+        "updated_at": 1756801061847,
+        "employee_skip_score": false,
+        "manager_skip_score": false
+    },
+    {
+        "id": "3980adf7-2ce1-4088-a622-c94855bc4578",
+        "status": "PUBLISHED",
+        "capabilities": "Skilled Navigator",
+        "capabilities_label": "Skilled Navigator",
+        "sub_capability": "Calm and Composed",
+        "visibility": [
+            "EMPLOYEE"
+        ],
+        "type": "OBJECTIVE_SINGLE",
+        "manager_question_type": null,
+        "question": "How would you describe yourself as a Skilled Navigator? ",
+        "manager_question": null,
+        "options": [
+            {
+                "value": "Learn: Already applying the capability but requires more training, as the role is mission-critical or expected to change significantly.",
+                "input_required": false
+            },
+            {
+                "value": "Grow: Already applying the capability at a team/function level, with an opportunity to enhance it further and apply it at the enterprise level.",
+                "input_required": false
+            },
+            {
+                "value": "Teach: Already applying the capability at the enterprise and overall <organization> level, with the ability to coach and mentor others to create a \"movement\".",
+                "input_required": false
+            }
+        ],
+        "manager_options": null,
+        "description": "Clear, concise and engaging communicator that has the ability to convince and influence internal and external stakeholders Ability to navigate complex situations, in a composed manner and achieve optimal result",
+        "ranking": [
+            1,
+            2,
+            4
+        ],
+        "manager_ranking": null,
+        "sl_no": 14,
+        "capability_sl_no": 4,
+        "sub_capability_sl_no": 3,
+        "exact_number_selection": null,
+        "manager_exact_number_selection": null,
+        "assessment": null,
+        "question_hash": null,
+        "created_by": "elizabeth@tccapita.com",
+        "created_at": 1756801061845,
+        "updated_by": "anurag@tccapita.com",
+        "updated_at": 1757319337966,
+        "employee_skip_score": false,
+        "manager_skip_score": false
+    }
+]

@@ -1,0 +1,306 @@
+{
+  "assessment_capability_results": {
+    "metadata": {
+      "organizationId": "org-stoneX",
+      "organizationName": "StoneX",
+      "employeeName": "SYNTHETIC PERSONA",
+      "employeeTenure": "1 year",
+      "capabilityAssessmentName": "Powering Team Performance Assessment",
+      "capabilityAssessmentId": "PTP-SYNTHETIC-001",
+      "capabilityAssessmentDate": "2025-08-30"
+    },
+    "capabilityData": {
+      "capability": "Powering Team Performance",
+      "subCapabilities": [
+        {
+          "name": "Role Clarity",
+          "questions": [
+            {
+              "id": 1,
+              "employeeQuestion": "When collaborating across teams, how often do you clarify who is accountable for what?",
+              "employeeQuestionTags": [],
+              "employeeQuestionType": "OBJECTIVE_SINGLE",
+              "employeeOptions": [
+                { "value": "Always", "score": 4 },
+                { "value": "Frequently", "score": 3 },
+                { "value": "From time to time", "score": 2 },
+                { "value": "Rarely", "score": 1 }
+              ],
+              "employeeResponse": "Rarely",
+              "employeeScore": 1
+            },
+            {
+              "id": 2,
+              "employeeQuestion": "There is clarity amongst my team/function on the role we play in shaping the future of StoneX.",
+              "employeeQuestionTags": [],
+              "employeeQuestionType": "OBJECTIVE_SINGLE",
+              "employeeOptions": [
+                { "value": "Strongly Agree", "score": 4 },
+                { "value": "Agree", "score": 3 },
+                { "value": "Disagree", "score": 2 },
+                { "value": "Strongly Disagree", "score": 1 }
+              ],
+              "employeeResponse": "Strongly Disagree",
+              "employeeScore": 1
+            },
+            {
+              "id": 3,
+              "employeeQuestion": "How often do you initiate conversations with your team about evolving responsibilities or role overlaps?",
+              "employeeQuestionTags": [],
+              "employeeQuestionType": "OBJECTIVE_SINGLE",
+              "employeeOptions": [
+                { "value": "Always", "score": 4 },
+                { "value": "Frequently", "score": 3 },
+                { "value": "From time to time", "score": 2 },
+                { "value": "Rarely", "score": 1 }
+              ],
+              "employeeResponse": "Rarely",
+              "employeeScore": 1
+            }
+          ],
+          "employeeScore": 1.0,
+          "managerScore": null
+        },
+        {
+          "name": "Outcome Focused",
+          "questions": [
+            {
+              "id": 4,
+              "employeeQuestion": "There is a consistent framework to track and monitor impact of projects/initiatives after it has been implemented.",
+              "employeeQuestionTags": [],
+              "employeeQuestionType": "OBJECTIVE_SINGLE",
+              "employeeOptions": [
+                { "value": "Strongly Agree", "score": 4 },
+                { "value": "Agree", "score": 3 },
+                { "value": "Disagree", "score": 2 },
+                { "value": "Strongly Disagree", "score": 1 }
+              ],
+              "employeeResponse": "Strongly Disagree",
+              "employeeScore": 1
+            },
+            {
+              "id": 5,
+              "employeeQuestion": "I aspire to create a culture that is outcome-oriented and merit-based, where people are motivated to achieve top performance.",
+              "employeeQuestionTags": [],
+              "employeeQuestionType": "OBJECTIVE_SINGLE",
+              "employeeOptions": [
+                { "value": "Strongly Agree", "score": 4 },
+                { "value": "Agree", "score": 3 },
+                { "value": "Disagree", "score": 2 },
+                { "value": "Strongly Disagree", "score": 1 }
+              ],
+              "employeeResponse": "Strongly Disagree",
+              "employeeScore": 1
+            }
+          ],
+          "employeeScore": 1.0,
+          "managerScore": null
+        },
+        {
+          "name": "Feedback Culture",
+          "questions": [
+            {
+              "id": 6,
+              "employeeQuestion": "How would your team describe your approach to giving feedback and supporting development? (Check all that apply)",
+              "employeeQuestionTags": [],
+              "employeeQuestionType": "OBJECTIVE_MULTIPLE",
+              "employeeOptions": [
+                 { "value": "Motivating", "score": 1 },
+                 { "value": "Empowering", "score": 1 },
+                 { "value": "Competent", "score": 1 },
+                 { "value": "Kind", "score": 1 },
+                 { "value": "Authentic", "score": 1 }
+              ],
+              "employeeResponse": "Kind",
+              "employeeScore": null
+            },
+            {
+              "id": 7,
+              "employeeQuestion": "I try to foster a strong feedback culture within my team/function, at all levels.",
+              "employeeQuestionTags": [],
+              "employeeQuestionType": "OBJECTIVE_SINGLE",
+              "employeeOptions": [
+                { "value": "Strongly Agree", "score": 4 },
+                { "value": "Agree", "score": 3 },
+                { "value": "Disagree", "score": 2 },
+                { "value": "Strongly Disagree", "score": 1 }
+              ],
+              "employeeResponse": "Strongly Disagree",
+              "employeeScore": 1
+            },
+            {
+              "id": 8,
+              "employeeQuestion": "There are clear set of tools, guidelines and framework available at StoneX to promote a feedback culture.",
+              "employeeQuestionTags": [],
+              "employeeQuestionType": "OBJECTIVE_SINGLE",
+              "employeeOptions": [
+                { "value": "Strongly Agree", "score": 4 },
+                { "value": "Agree", "score": 3 },
+                { "value": "Disagree", "score": 2 },
+                { "value": "Strongly Disagree", "score": 1 }
+              ],
+              "employeeResponse": "Strongly Disagree",
+              "employeeScore": 1
+            },
+            {
+              "id": 9,
+              "employeeQuestion": "I am comfortable giving and receiving feedback—both positive and negative—from the people I work with.",
+              "employeeQuestionTags": [],
+              "employeeQuestionType": "OBJECTIVE_SINGLE",
+              "employeeOptions": [
+                { "value": "Strongly Agree", "score": 4 },
+                { "value": "Agree", "score": 3 },
+                { "value": "Disagree", "score": 2 },
+                { "value": "Strongly Disagree", "score": 1 }
+              ],
+              "employeeResponse": "Strongly Disagree",
+              "employeeScore": 1
+            },
+            {
+              "id": 10,
+              "employeeQuestion": "How often do you schedule regular two-way feedback sessions with your direct reports?",
+              "employeeQuestionTags": [],
+              "employeeQuestionType": "OBJECTIVE_SINGLE",
+              "employeeOptions": [
+                { "value": "Monthly", "score": 4 },
+                { "value": "Quarterly", "score": 3 },
+                { "value": "As required", "score": 2 },
+                { "value": "Rarely", "score": 1 }
+              ],
+              "employeeResponse": "Rarely",
+              "employeeScore": 1
+            },
+            {
+              "id": 11,
+              "employeeQuestion": "How do you believe your team currently perceives your leadership style as a manager?",
+              "employeeQuestionTags": [],
+              "employeeQuestionType": "OBJECTIVE_SINGLE",
+              "employeeOptions": [
+                { "value": "Supportive and approachable", "score": 1 },
+                { "value": "Clear and structured", "score": 2 },
+                { "value": "Inspirational and motivating", "score": 3 },
+                { "value": "Task-focused and efficient", "score": 4 },
+                { "value": "Strategic and big-picture oriented", "score": 1 },
+                { "value": "Not sure", "score": 1 }
+              ],
+              "employeeResponse": "Not sure",
+              "employeeScore": 1
+            },
+            {
+              "id": 12,
+              "employeeQuestion": "My function/team proactively gives and receives feedback with other teams/functions to support continuous improvement.",
+              "employeeQuestionTags": [],
+              "employeeQuestionType": "OBJECTIVE_SINGLE",
+              "employeeOptions": [
+                { "value": "Always", "score": 4 },
+                { "value": "Frequently", "score": 3 },
+                { "value": "From time to time", "score": 2 },
+                { "value": "Rarely", "score": 1 }
+              ],
+              "employeeResponse": "Rarely",
+              "employeeScore": 1
+            }
+          ],
+          "employeeScore": 1.0,
+          "managerScore": null
+        },
+        {
+          "name": "Team Empowerment",
+          "questions": [
+            {
+              "id": 13,
+              "employeeQuestion": "How often do you support team members to lead new initiatives outside their comfort zone?",
+              "employeeQuestionTags": [],
+              "employeeQuestionType": "OBJECTIVE_SINGLE",
+              "employeeOptions": [
+                { "value": "Always", "score": 4 },
+                { "value": "Frequently", "score": 3 },
+                { "value": "From time to time", "score": 2 },
+                { "value": "Rarely", "score": 1 }
+              ],
+              "employeeResponse": "Rarely",
+              "employeeScore": 1
+            },
+            {
+              "id": 14,
+              "employeeQuestion": "If you had to give one piece of advice to a new manager at StoneX, what would it be?",
+              "employeeQuestionTags": [],
+              "employeeQuestionType": "SUBJECTIVE",
+              "employeeOptions": [],
+              "employeeResponse": "I'm not sure what to advise.",
+              "employeeScore": null
+            },
+            {
+              "id": 15,
+              "employeeQuestion": "When supporting a team member in taking greater ownership of solving a challenge, rank the following approaches in order of your usual preference.",
+              "employeeQuestionTags": [],
+              "employeeQuestionType": "OBJECTIVE_RANKING",
+              "employeeOptions": [
+                { "value": "Step in to solve the issue and inform them of the solution due to urgency.", "score": 4 },
+                { "value": "Co-create possible solutions through a collaborative discussion.", "score": 2 },
+                { "value": "Ask them to bring a few potential solutions before meeting with you.", "score": 1 },
+                { "value": "Share how you would approach it, but let them decide on the path forward.", "score": 3 }
+              ],
+              "employeeResponse": "Ask them to bring a few potential solutions before meeting with you.\nCo-create possible solutions through a collaborative discussion.\nShare how you would approach it, but let them decide on the path forward.\nStep in to solve the issue and inform them of the solution due to urgency.",
+              "employeeScore": 1
+            },
+            {
+              "id": 16,
+              "employeeQuestion": "How often do you encourage team members to align their ideas and priorities with the short- and long-term vision of StoneX?",
+              "employeeQuestionTags": [],
+              "employeeQuestionType": "OBJECTIVE_SINGLE",
+              "employeeOptions": [
+                { "value": "Always", "score": 4 },
+                { "value": "Frequently", "score": 3 },
+                { "value": "Occasionally", "score": 2 },
+                { "value": "Rarely", "score": 1 }
+              ],
+              "employeeResponse": "Rarely",
+              "employeeScore": 1
+            },
+            {
+              "id": 17,
+              "employeeQuestion": "How would you describe yourself as a powering team performer?",
+              "employeeQuestionTags": [],
+              "employeeQuestionType": "OBJECTIVE_SINGLE",
+              "employeeOptions": [
+                { "value": "Learn: Already applying the capability but requires more training, as the role is mission-critical or expected to change significantly.", "score": 1 },
+                { "value": "Grow: Already applying the capability at a team/function level, with an opportunity to enhance it further and apply it at StoneX.", "score": 3 },
+                { "value": "Teach: Already applying the capability at the enterprise and overall StoneX level, with the ability to coach and mentor others to create a \"movement\".", "score": 4 }
+              ],
+              "employeeResponse": "Learn: Already applying the capability but requires more training, as the role is mission-critical or expected to change significantly.",
+              "employeeScore": 1
+            }
+          ],
+          "employeeScore": 1.0,
+          "managerScore": null
+        }
+      ],
+      "overallAssessment": {
+        "employeeQuestion": "",
+        "employeeResponse": "",
+        "managerQuestion": "",
+        "managerResponse": ""
+      },
+      "capabilityScores": {
+        "employeeScore": 1.0,
+        "employeeStage": "LEARN",
+        "managerScore": null,
+        "managerStage": null
+      }
+    }
+  },
+  "model_provider": "anthropic",
+  "model_name": "claude-3-opus-20240229",
+  "temperature": 0.2,
+  "capability_max_tokens": 1500,
+  "subcapability_max_tokens": 750,
+  "is_generate_subcapability_summary": false,
+  "top_p": 0.95,
+  "top_k": 40,
+  "summary_type": "standard",
+  "summary_generation_rules": [],
+  "summary_generation_rules_for_capability": [],
+  "summary_generation_rules_for_subcapability": [],
+  "is_employee_only_assessment": true
+}

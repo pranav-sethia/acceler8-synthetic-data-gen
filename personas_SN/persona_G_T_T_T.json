@@ -1,0 +1,392 @@
+{
+  "assessment_capability_results": {
+    "metadata": {
+      "organizationId": "org-stoneX",
+      "organizationName": "StoneX",
+      "employeeName": "Persona G_T_T_T",
+      "employeeTenure": "1 year",
+      "capabilityAssessmentName": "Skilled Navigator Assessment",
+      "capabilityAssessmentId": "SYNTHETIC-G_T_T_T",
+      "capabilityAssessmentDate": "2025-09-15"
+    },
+    "capabilityData": {
+      "capability": "Skilled Navigator",
+      "subCapabilities": [
+        {
+          "name": "Stakeholder Navigation",
+          "questions": [
+            {
+              "id": 1,
+              "employeeQuestion": "Rank the most effective methods to assess a stakeholder's influence on the buying decision.",
+              "employeeQuestionType": "OBJECTIVE_RANKING",
+              "employeeOptions": [
+                {
+                  "value": "Their job title",
+                  "score": 4
+                },
+                {
+                  "value": "Their tenure",
+                  "score": 1
+                },
+                {
+                  "value": "How often they attend meetings about the purchase",
+                  "score": 2
+                },
+                {
+                  "value": "Their level of engagement and internal relationship with decision making",
+                  "score": 3
+                }
+              ],
+              "employeeResponse": "Their tenure\nHow often they attend meetings about the purchase\nTheir job title\nTheir level of engagement and internal relationship with decision making",
+              "employeeScore": 2
+            },
+            {
+              "id": 2,
+              "employeeQuestion": "How confident are you in identifying the different stakeholders (e.g., decision-makers, customer-facing teams, influencers, senior management, etc.) involved in the decision-making process?",
+              "employeeQuestionType": "OBJECTIVE_SINGLE",
+              "employeeOptions": [
+                {
+                  "value": "Very Confident",
+                  "score": 4
+                },
+                {
+                  "value": "Confident",
+                  "score": 3
+                },
+                {
+                  "value": "Somewhat confident",
+                  "score": 2
+                },
+                {
+                  "value": "Really depends",
+                  "score": 1
+                }
+              ],
+              "employeeResponse": "Confident",
+              "employeeScore": 3
+            },
+            {
+              "id": 3,
+              "employeeQuestion": "In your view, what\u2019s the most effective way to engage two key stakeholders who have different priorities?",
+              "employeeQuestionType": "OBJECTIVE_SINGLE",
+              "employeeOptions": [
+                {
+                  "value": "Focus on identifying the decision-maker and direct efforts toward them.",
+                  "score": 1
+                },
+                {
+                  "value": "Focus primarily on ROI and product benefits.",
+                  "score": 2
+                },
+                {
+                  "value": "Wait until they are aligned internally before engaging them.",
+                  "score": 0
+                },
+                {
+                  "value": "Understand their different motivations and tailor the message accordingly.",
+                  "score": 4
+                }
+              ],
+              "employeeResponse": "Focus primarily on ROI and product benefits.",
+              "employeeScore": 2
+            },
+            {
+              "id": 4,
+              "employeeQuestion": "How actively do you map and identify key influencers in the decision-making process?",
+              "employeeQuestionType": "OBJECTIVE_SINGLE",
+              "employeeOptions": [
+                {
+                  "value": "Always",
+                  "score": 4
+                },
+                {
+                  "value": "Frequently",
+                  "score": 3
+                },
+                {
+                  "value": "From Time to Time",
+                  "score": 2
+                },
+                {
+                  "value": "Rarely",
+                  "score": 1
+                }
+              ],
+              "employeeResponse": "Frequently",
+              "employeeScore": 3
+            }
+          ],
+          "employeeScore": 2.5
+        },
+        {
+          "name": "Tactful Negotiator",
+          "questions": [
+            {
+              "id": 6,
+              "employeeQuestion": "What best describes your influencing and negotiation style?",
+              "employeeQuestionType": "OBJECTIVE_SINGLE",
+              "employeeOptions": [
+                {
+                  "value": "Recognized as an expert collaborative negotiator.",
+                  "score": 4
+                },
+                {
+                  "value": "Demonstrates successful collaborative negotiation, achieving a \"win-win\" scenario for both parties.",
+                  "score": 3
+                },
+                {
+                  "value": "Demonstrates an understanding of basic negotiation skills, such as building trust, gaining commitment, and maintaining goodwill.",
+                  "score": 2
+                },
+                {
+                  "value": "Engages in a fair and balanced way to gain support and agreement, showing the right aptitude for becoming a strong negotiator.",
+                  "score": 1
+                }
+              ],
+              "employeeResponse": "Recognized as an expert collaborative negotiator.",
+              "employeeScore": 4
+            },
+            {
+              "id": 7,
+              "employeeQuestion": "Do you have the right tools and training required for handling objections?",
+              "employeeQuestionType": "OBJECTIVE_SINGLE",
+              "employeeOptions": [
+                {
+                  "value": "Strongly Agree",
+                  "score": 4
+                },
+                {
+                  "value": "Agree",
+                  "score": 3
+                },
+                {
+                  "value": "Disagree",
+                  "score": 2
+                },
+                {
+                  "value": "Strongly Disagree",
+                  "score": 1
+                }
+              ],
+              "employeeResponse": "Strongly Agree",
+              "employeeScore": 4
+            },
+            {
+              "id": 8,
+              "employeeQuestion": "How can &lt;organization&gt; best support or enable you in becoming a stronger negotiator?",
+              "employeeQuestionType": "SUBJECTIVE",
+              "employeeOptions": [],
+              "employeeResponse": "I confidently apply best practices and help mentor others on this topic.",
+              "employeeScore": null
+            }
+          ],
+          "employeeScore": 4.0
+        },
+        {
+          "name": "Empathetic Objection Handling",
+          "questions": [
+            {
+              "id": 5,
+              "employeeQuestion": "How often do you ask clarifying questions to fully understand the root of someone\u2019s concern or objection?",
+              "employeeQuestionType": "OBJECTIVE_SINGLE",
+              "employeeOptions": [
+                {
+                  "value": "Always",
+                  "score": 4
+                },
+                {
+                  "value": "Frequently",
+                  "score": 3
+                },
+                {
+                  "value": "From Time-to-Time",
+                  "score": 2
+                },
+                {
+                  "value": "Rarely",
+                  "score": 1
+                }
+              ],
+              "employeeResponse": "Always",
+              "employeeScore": 4
+            }
+          ],
+          "employeeScore": 4.0
+        },
+        {
+          "name": "Calm and Composed",
+          "questions": [
+            {
+              "id": 9,
+              "employeeQuestion": "To what extent are you expected to help maintain composure and stability during high-pressure situations in your team?",
+              "employeeQuestionType": "OBJECTIVE_SINGLE",
+              "employeeOptions": [
+                {
+                  "value": "Core to my role",
+                  "score": 4
+                },
+                {
+                  "value": "Important, but not core",
+                  "score": 3
+                },
+                {
+                  "value": "Occasionally relevant",
+                  "score": 2
+                },
+                {
+                  "value": "Not in my scope",
+                  "score": 1
+                }
+              ],
+              "employeeResponse": "Core to my role",
+              "employeeScore": 4
+            },
+            {
+              "id": 10,
+              "employeeQuestion": "How often do others look to you as a calming presence during team stress or conflict?",
+              "employeeQuestionType": "OBJECTIVE_SINGLE",
+              "employeeOptions": [
+                {
+                  "value": "Regularly",
+                  "score": 4
+                },
+                {
+                  "value": "Occasionally",
+                  "score": 3
+                },
+                {
+                  "value": "Seldom",
+                  "score": 2
+                },
+                {
+                  "value": "Not that I\u2019m aware of",
+                  "score": 1
+                }
+              ],
+              "employeeResponse": "Regularly",
+              "employeeScore": 4
+            },
+            {
+              "id": 11,
+              "employeeQuestion": "You're presenting a new process change, and a team member strongly disagrees, citing concerns about added workload. How do you typically respond?",
+              "employeeQuestionType": "OBJECTIVE_SINGLE",
+              "employeeOptions": [
+                {
+                  "value": "I acknowledge their concern and ask questions to better understand their perspective .",
+                  "score": 4
+                },
+                {
+                  "value": "I explain the rationale behind the change and reassure them of support.",
+                  "score": 2
+                },
+                {
+                  "value": "I encourage a group discussion to surface other concerns and co-create solutions.",
+                  "score": 3
+                },
+                {
+                  "value": "I move forward with the change and suggest they try it before forming a judgment.",
+                  "score": 1
+                }
+              ],
+              "employeeResponse": "I acknowledge their concern and ask questions to better understand their perspective .",
+              "employeeScore": 4
+            },
+            {
+              "id": 12,
+              "employeeQuestion": "Which of the two words would you use to describe your demeanor when under pressure?",
+              "employeeQuestionType": "OBJECTIVE_MULTIPLE",
+              "employeeOptions": [
+                {
+                  "value": "Adaptive"
+                },
+                {
+                  "value": "Reactive"
+                },
+                {
+                  "value": "Calm"
+                },
+                {
+                  "value": "Decisive"
+                },
+                {
+                  "value": "Collaborative"
+                },
+                {
+                  "value": "Seeks Support"
+                },
+                {
+                  "value": "Detailed"
+                },
+                {
+                  "value": "Focused"
+                }
+              ],
+              "employeeResponse": "Calm",
+              "employeeScore": null
+            },
+            {
+              "id": 13,
+              "employeeQuestion": "How frequently do you encounter high-pressure situations in your role?",
+              "employeeQuestionType": "OBJECTIVE_SINGLE",
+              "employeeOptions": [
+                {
+                  "value": "Always",
+                  "score": 4
+                },
+                {
+                  "value": "Frequently",
+                  "score": 3
+                },
+                {
+                  "value": "From Time to Time",
+                  "score": 2
+                },
+                {
+                  "value": "Rarely",
+                  "score": 1
+                }
+              ],
+              "employeeResponse": "Always",
+              "employeeScore": 4
+            },
+            {
+              "id": 14,
+              "employeeQuestion": "How would you describe yourself as a Skilled Navigator?",
+              "employeeQuestionType": "OBJECTIVE_SINGLE",
+              "employeeOptions": [
+                {
+                  "value": "Learn: Already applying the capability but requires more training, as the role is mission-critical or expected to change significantly.",
+                  "score": 1
+                },
+                {
+                  "value": "Grow: Already applying the capability at a team/function level, with an opportunity to enhance it further and apply it at the enterprise level.",
+                  "score": 2
+                },
+                {
+                  "value": "Teach: Already applying the capability at the enterprise and overall <organization> level, with the ability to coach and mentor others to create a \"movement\".",
+                  "score": 4
+                }
+              ],
+              "employeeResponse": "Teach: Already applying the capability at the enterprise and overall <organization> level, with the ability to coach and mentor others to create a \"movement\".",
+              "employeeScore": 4
+            }
+          ],
+          "employeeScore": 4.0
+        }
+      ],
+      "overallAssessment": {
+        "employeeQuestion": "",
+        "employeeResponse": "",
+        "managerQuestion": "",
+        "managerResponse": ""
+      },
+      "capabilityScores": {
+        "employeeScore": 3.5,
+        "employeeStage": "GROW",
+        "managerScore": null,
+        "managerStage": null
+      }
+    }
+  },
+  "is_employee_only_assessment": true
+}
